@@ -1,0 +1,81 @@
+# Site settings
+title: Betawiki
+email: info@labetapi.fr
+description: Le Wiki du Bêta-Lab
+# > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://betawiki.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username: Betawiki
+
+# permalink: /:year/:month/:day/:title/
+permalink: /:title
+
+#########################################
+
+# Build settings
+markdown: kramdown
+
+# highlight
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
+
+#########################################
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://betawiki.github.io/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "comments"
+        field:
+          element: "hidden"
+          value: "hidden"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Sélectionner une ou plusieurs catégorie(s)"
+          placeholder: "Catégorie..."
+          options:
+            - name: "Modélisation_3D"
+              value: "Modélisation_3D"
+            - name: "Modélisation_2D"
+              value: "Modélisation_2D"
+            - name: "Arduino"
+              value: "Arduino"
+            - name: "Plotter"
+              value: "Plotter"
+      - name: "author"
+        field:
+          element: "select"
+          label: "Sélectionner un auteur"
+          placeholder: "Auteur..."
+          options:
+            - name: "Camille"
+              value: "Camille"
+            - name: "Ben"
+              value: "Ben"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
