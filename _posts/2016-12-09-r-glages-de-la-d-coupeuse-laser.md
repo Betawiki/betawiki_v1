@@ -3,9 +3,9 @@ comments: hidden
 published: true
 layout: post
 title: Utilisation de la découpeuse laser
+author: Camille
 categories:
-  - Plotter
-author: Ben
+  - Découpeuse_laser
 ---
 ## Préparez votre fichier
 
