@@ -21,4 +21,6 @@ author: Ben
 
 * placer la planche
 * allumer la découpeuse laser (bouton à l'arrière)
-*
+* placer le faisceau sur la surface de découpe avec les boutons à droite
+* placer le curseur en équilibre
+* monter le plateau doucement jusqu'à ce que le curseur tombe
