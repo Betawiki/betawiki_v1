@@ -20,5 +20,5 @@ réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Ink
 **Vérifiez que votre fichier respecte les conditions suivantes :**
 
 * votre fichier est en **noir et blanc**
-* tous vos objets ont été transformés en **chemins** (//sélectionnez vos objets > Chemin > Objets en chemins//)
-* votre fichier est enregistré en **.DXF** (//Fichier > Enregistrer sous//)
+* tous vos objets ont été transformés en **chemins** (*sélectionnez vos objets > Chemin > Objets en chemins*)
+* votre fichier est enregistré en **.DXF** (*Fichier > Enregistrer sous*)
