@@ -2,7 +2,7 @@
 comments: hidden
 published: true
 layout: post
-title: Le plotter de découpe
+title: Utilisation du plotter de découpe
 categories:
   - Plotter
 author: Camille
