@@ -23,9 +23,9 @@ réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Ink
 * les traits que vous souhaitez __graver__ sont coloriés en **noir** (//Objet > Remplissage et contour// : RGBA 0, 0, 0, 255)
 	* vous pouvez aussi utiliser des niveaux de gris pour moduler la profondeur de gravure
 * l'épaisseur des traits est de **0,01 mm** (//Objet > Remplissage et contour//)
-* la page est redimensionnée à la taille du dessin (//Fichier > Propriétés du document > Redimensionner la page au contenu > Ajuster la page au dessin ou à la sélection//)
-* tous vos objets ont été transformés en chemins (//sélectionnez vos objets > Chemin > Objets en chemins//)
-* votre fichier est enregistré en .SVG (//Fichier > Enregistrer sous//)
+* la page est redimensionnée à la **taille du dessin** (//Fichier > Propriétés du document > Redimensionner la page au contenu > Ajuster la page au dessin ou à la sélection//)
+* tous vos objets ont été transformés en **chemins** (//sélectionnez vos objets > Chemin > Objets en chemins//)
+* votre fichier est enregistré en **.SVG** (//Fichier > Enregistrer sous//)
 
 ## Préparer la découpeuse laser
 
