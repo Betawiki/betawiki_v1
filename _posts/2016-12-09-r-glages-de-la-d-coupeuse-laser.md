@@ -9,18 +9,22 @@ categories:
 ---
 ## Préparez votre fichier
 
-* réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Inkscape](https://inkscape.org/fr/), un logiciel libre et gratuit)
-	* pour récupérer une image depuis Google Images (de préférence une image avec seulement des contours : Outils > Type > Dessin au trait)
-    	* clic droit sur l'image > Copier l'image
-        * dans un nouveau document Inkscape : clic droit sur le document > Coller
-        * sélectionnez l'image que vous venez d'insérer : Chemin > Vectoriser le bitmap > Valider
-        * déplacez la nouvelle image que vous venez de générer et supprimez la première
-* transformez tous vos objets en chemins (//sélectionnez vos objets > Chemin > Objets en chemins//)
-* coloriez en rouge (RGBA 255, 0, 0, 255) les traits que vous souhaitez **découper** (//Objet > Remplissage et contour//)
-* coloriez en noir (RGBA 0, 0, 0, 255) les traits que vous souhaitez **graver** (//Objet > Remplissage et contour//)
+réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Inkscape](https://inkscape.org/fr/), un logiciel libre et gratuit)
+
+* pour récupérer une image depuis Google Images (de préférence une image avec seulement des contours : Outils > Type > Dessin au trait)
+    * clic droit sur l'image > Copier l'image
+    * dans un nouveau document Inkscape : clic droit sur le document > Coller
+    * sélectionnez l'image que vous venez d'insérer : Chemin > Vectoriser le bitmap > Valider
+    * déplacez la nouvelle image que vous venez de générer et supprimez la première
+
+**Vérifiez que votre fichier respecte les conditions suivantes :**
+
+* les traits que vous souhaitez __découper__ sont coloriés en **rouge** (//Objet > Remplissage et contour// : RGBA 255, 0, 0, 255) 
+* les traits que vous souhaitez __graver__ sont coloriés en **noir** (//Objet > Remplissage et contour// : RGBA 0, 0, 0, 255)
 	* vous pouvez aussi utiliser des niveaux de gris pour moduler la profondeur de gravure
-* réglez l'épaisseur des traits à **0,01 mm** (//Objet > Remplissage et contour//)
+* l'épaisseur des traits est de **0,01 mm** (//Objet > Remplissage et contour//)
 * rédimensionnez la page à la taille du dessin (//Fichier > Propriétés du document > Redimensionner la page au contenu > Ajuster la page au dessin ou à la sélection//)
+* transformez tous vos objets en chemins (//sélectionnez vos objets > Chemin > Objets en chemins//)
 * enregistrez votre fichier en .SVG (//Fichier > Enregistrer sous//)
 
 ## Préparer la découpeuse laser
