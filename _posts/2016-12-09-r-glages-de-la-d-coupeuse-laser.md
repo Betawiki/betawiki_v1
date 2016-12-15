@@ -16,9 +16,7 @@ categories:
 	* vous pouvez aussi utiliser des niveaux de gris pour moduler la profondeur de gravure
 * réglez l'épaisseur des traits à **0,01 mm** (//Objet > Remplissage et contour//)
 * rédimensionnez la page à la taille du dessin (//Fichier > Propriétés du document > Redimensionner la page au contenu > Ajuster la page au dessin ou à la sélection//)
-* enregistrez votre fichier en .SVG
-
-#### Pour 
+* enregistrez votre fichier en .SVG (//Fichier > Enregistrer sous//)
 
 ## Préparer la découpeuse laser
 
