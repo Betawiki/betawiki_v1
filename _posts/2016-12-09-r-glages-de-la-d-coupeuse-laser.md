@@ -10,7 +10,7 @@ categories:
 ## Préparez votre fichier
 
 * réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Inkscape](https://inkscape.org/fr/), logiciel libre et gratuit)
-	* pour récupérer une image depuis Google Images :
+	* pour récupérer une image depuis Google Images (de préférence une image avec seulement des contours : Outils > Type > Dessin au trait)
     	* clic droit sur l'image > Copier l'image
         * dans un nouveau document Inkscape : clic droit sur le document > Coller
         * sélectionnez l'image que vous venez d'insérer : Chemin > Vectoriser le bitmap
