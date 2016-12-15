@@ -9,11 +9,11 @@ categories:
 ---
 ## Préparez votre fichier
 
-* réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Inkscape](https://inkscape.org/fr/), logiciel libre et gratuit)
+* réalisez votre dessin avec un logiciel de dessin vectoriel (nous utilisons [Inkscape](https://inkscape.org/fr/), un logiciel libre et gratuit)
 	* pour récupérer une image depuis Google Images (de préférence une image avec seulement des contours : Outils > Type > Dessin au trait)
     	* clic droit sur l'image > Copier l'image
         * dans un nouveau document Inkscape : clic droit sur le document > Coller
-        * sélectionnez l'image que vous venez d'insérer : Chemin > Vectoriser le bitmap
+        * sélectionnez l'image que vous venez d'insérer : Chemin > Vectoriser le bitmap puis Valider
         * déplacez la nouvelle image que vous venez de générer et supprimez la première
 * transformez tous vos objets en chemins (//sélectionnez vos objets > Chemin > Objets en chemins//)
 * coloriez en rouge (RGBA 255, 0, 0, 255) les traits que vous souhaitez **découper** (//Objet > Remplissage et contour//)
