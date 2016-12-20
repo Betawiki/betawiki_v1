@@ -75,19 +75,19 @@ author: Camille
 
 ---
 
-## Bois
+#### Bois
 
 * **medium 3mm - découpe :** puissance 100, vitesse 0.6, fréquence 1000Hz, passes 1
 * **peuplier 8mm - découpe :** 
 
-## Plastiques
+#### Plastiques
 
 * **PMMA 3mm (Plexiglas) - découpe :** puissance 100, vitesse 0.60, fréquence 1000Hz, passes 1
 * **PMMA 3mm (Plexiglas) - gravure :** puissance 100, vitesse 60, résolution 500 DPI, passes 1
 
-## Papier, carton
+#### Papier, carton
 
-## Autres
+#### Autres
 
 * **cuir 2mm - découpe :** puissance 100, vitesse 0.80, fréquence 1000Hz, passes 1
 
@@ -95,6 +95,6 @@ author: Camille
 
 **Sources :**
 
-* ![Fablab Carrefour numérique - Quels sont les matériaux utilisables sur les découpeuses laser ?](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:materiaux)
-* ![Fablab Berlin - Laser cutter Trotec Speedy400](https://wiki.fablab.berlin/index.php/Laser_cutter_Trotec_Speedy400)
+* [Fablab Carrefour numérique - Quels sont les matériaux utilisables sur les découpeuses laser ?](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:materiaux)
+* [Fablab Berlin - Laser cutter Trotec Speedy400](https://wiki.fablab.berlin/index.php/Laser_cutter_Trotec_Speedy400)
 
