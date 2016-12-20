@@ -10,26 +10,6 @@ author: Camille
 ## Les matériaux à ne JAMAIS utiliser pour la découpe/gravure laser
 
 
-    
-Quels sont les matériaux utilisables sur les découpeuses laser ?
-
-Pour découper les matériaux, les machines émettent un rayon laser permettant d'élever la température d'une zone réduite de matière, jusqu'à vaporisation de celle ci. Certains matériaux ne peuvent pas être coupés par ce procédé, il peuvent fondre, émettre des gaz dangereux, ou encore nécessiter une puissance supérieure à ce que permettent les machines du Fablab. Voici des liste de materiaux qu'il est possible ou impossible d'utiliser avec les découpeuses laser.
-
-Il est interdit d'utiliser dans la découpeuses des matériaux dont vous ne connaissez pas la composition et qui pourraient émettre du chlore du fluor ou autres gaz/vapeurs toxiques.
-Matériaux qui ne peuvent pas être découpés au laser
-
-    Les matériaux réfléchissant : miroirs, objets chromés, métaux polis, … (Les miroirs peuvent être gravés uniquement avec la face réfléchissante dirigée vers le plateau de la machine)
-    La plupart des métaux, le mode découpe peut cependant être utilisé pour marquer certains métaux
-    Fibre de verre
-    Carte de circuit imprimé (Fibre de verre + epoxy)
-    Fibre de carbone
-    Tous les matériaux contenant du chlore, PVC, vinyl, … :WARN: Utilisation interdite, risque d’émission de gaz chloré mortel
-    Tous les matériaux contenant du fluor : Téflon, … :WARN: Utilisation interdite, risque d’émission de fluor sous forme de gaz
-    Verre
-    Les matériaux réfléchissants (miroir, métaux polis, chrome, …) - :WARN: L'utilisation de matériaux réfléchissants pourrait endommager fortement la machine
-    Medium valcromat teinté dans la masse - Prend feu
-    Polycarbonate / PC / Lexan / Makrolon : fond et brûle
-    Polystyrène expansé/extrudé (mousse): fond et brûle
 
 :INFO: Les matériaux composés et/ou non homogènes sont généralement compliqués à découper proprement au laser
 Matériaux découpables au laser
