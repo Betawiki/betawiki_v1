@@ -75,19 +75,21 @@ author: Camille
 
 ---
 
-#### Bois
+## Paramètres en fonction des matériaux
+
+### Bois
 
 * **medium 3mm - découpe :** puissance 100, vitesse 0.6, fréquence 1000Hz, passes 1
 * **peuplier 8mm - découpe :** 
 
-#### Plastiques
+### Plastiques
 
 * **PMMA 3mm (Plexiglas) - découpe :** puissance 100, vitesse 0.60, fréquence 1000Hz, passes 1
 * **PMMA 3mm (Plexiglas) - gravure :** puissance 100, vitesse 60, résolution 500 DPI, passes 1
 
-#### Papier, carton
+### Papier, carton
 
-#### Autres
+### Autres
 
 * **cuir 2mm - découpe :** puissance 100, vitesse 0.80, fréquence 1000Hz, passes 1
 
