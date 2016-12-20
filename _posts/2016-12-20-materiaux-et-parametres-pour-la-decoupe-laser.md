@@ -37,6 +37,42 @@ author: Camille
 * PBTP
 * HDPE/bouteilles en plastique -> fond et brûle
 
+## Les matériaux acceptés
+
+* bois :
+	* bois brut (faible épaisseur, éviter les bois résineux qui sont plus inflammables)
+	* MDF / Medium < 6mm (sauf MDF tinté dans la masse)
+	* contreplaqués
+* platiques :
+	* Polyamide / PA / Nylon
+	* Polyoxyméthylène / POM / Delrin
+	* Polyester / PES / Thermolite / Polarguard
+	* Polyéthylène téréphtalate / PET / Mylar
+	* Polyimide / PI / Kapton
+	* Polystyrène / PS
+	* Acrylique / Polyméthylmétacrylate / PMMA / Plexiglas
+	* Polypropylène / PP
+	* Acrylonitrile-butadiène-styrène / ABS
+	* Polytétrafluoroéthylène) / PTFE
+	* Rhodoïd / Transparent pour rétroprojecteur
+* mousses :
+	* Polyester / PES
+	* Polyéthylène / PE
+	* Polyuréthane / PUR
+* autres :
+	* papier
+	* carton
+	* liège
+	* tissus : feutre, chanvre, coton, acrylique, nylon, laine
+	* cuir, daim
+
+## Les matériaux gravables mais non découpables
+
+* pierre, marbre, ardoise
+* céramique
+* verre (sauf formes cylindriques)
+* métaux (sauf métaux polis/réfléchissants) : aluminium, acier, laiton
+
 ---
 
 ## Bois
@@ -54,3 +90,11 @@ author: Camille
 ## Autres
 
 * **cuir 2mm - découpe :** puissance 100, vitesse 0.80, fréquence 1000Hz, passes 1
+
+---
+
+**Sources :**
+
+* ![Fablab Carrefour numérique - Quels sont les matériaux utilisables sur les découpeuses laser ?](http://carrefour-numerique.cite-sciences.fr/fablab/wiki/doku.php?id=machines:decoupe_laser:0_utilisation:materiaux)
+* ![Fablab Berlin - Laser cutter Trotec Speedy400](https://wiki.fablab.berlin/index.php/Laser_cutter_Trotec_Speedy400)
+
