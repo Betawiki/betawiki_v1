@@ -9,39 +9,6 @@ author: Camille
 ---
 ## Les matériaux à ne JAMAIS utiliser pour la découpe/gravure laser
 
-
-
-:INFO: Les matériaux composés et/ou non homogènes sont généralement compliqués à découper proprement au laser
-Matériaux découpables au laser
-
-    Bois
-        Bois brut (faible épaisseurs)
-        MDF / Medium (éviter les épaisseur >6mm qui on un rendu très brûlé et émettent beaucoup de fumée) -Ne pas utiliser de MDF tinté dans la masse
-        Contreplaqués
-    Certaines matières platiques :
-        Polyamide / PA / Nylon
-        Polyoxyméthylène / POM / Delrin
-        Polyester / PES / Thermolite / Polarguard
-        Polyéthylène téréphtalate / PET / Mylar
-        Polyimide / PI / Kapton
-        Polystyrène / PS
-        Acrylique / Polyméthylmétacrylate / PMMA / Plexiglas
-        Polypropylène / PP
-        Acrylonitrile-butadiène-styrène / ABS
-        Polytétrafluoroéthylène) / PTFE
-        Rhodoïd / Transparent pour rétroprojecteur
-    Mousses :
-        Polyester / PES
-        Polyéthylène / PE
-        Polyuréthane / PUR
-        Neopren - Prend feu facilement
-    Tissus (feutre, chanvre, coton, acrylique, nylon)
-    Cuir
-    Papier
-    Carton, carton bois
-    Carton plume (carton+mousse PU) - Le carton mousse (carton+Polystyrène expensé) se découpe lui beaucoup moins bien
-    Caoutchoucs naturel, synthétique (uniquement s'ils ne contient pas de chlore) - Attention génère beaucoup de suie et encrasse énormément les machines.
-
 Matériaux "gravables"
 
     A priori tout les matériaux découpables : bois, medium, pmma, ….
